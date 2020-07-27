@@ -1,6 +1,6 @@
 # react-infinite-scrolling
 
-React, Hooks, Refs, Custom Hooks
+React, Hooks, Refs, Custom Hooks, Infinite Scrolling, useCallback, useRef
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
