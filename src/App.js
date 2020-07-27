@@ -20,7 +20,6 @@ const App = () => {
         }
       });
       if (node) observer.current.observe(node);
-      console.log({ observer });
     },
     [hasMore, loading]
   );
